@@ -8,6 +8,10 @@
       "pre-commit": "pretty-quick --staged",
       "install:husky": "husky install"
     },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Vale-78/2-workshop2lazy.git"
+       },
     "devDependencies": {
       "husky": "7",
       "prettier": "^2.0.5",
